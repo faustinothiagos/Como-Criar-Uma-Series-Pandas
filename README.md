@@ -25,6 +25,6 @@ Em nossa exemplo considere que ambas armazenam dados provenientes de um sistema 
 - Saída do programa: 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97195240/209467565-3f91abc2-9be7-4db2-bb70-d7b1d0da15ec.png" width="600px" />
+<img src="https://user-images.githubusercontent.com/97195240/209467565-3f91abc2-9be7-4db2-bb70-d7b1d0da15ec.png" width="300px" />
 </div>
 
