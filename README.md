@@ -1,6 +1,6 @@
 # Como-Criar-Uma-Series-Pandas
 
-- Neste repositório estamos criando uma series(elemnento do Pandas) definindo uma lista e utilizando um construtor padrão.
+- Neste repositório estamos criando uma series(elemento do Pandas) definindo uma lista e utilizando um construtor padrão.
 
 # Enunciado:
 
