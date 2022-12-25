@@ -28,3 +28,5 @@ Em nossa exemplo considere que ambas armazenam dados provenientes de um sistema 
 <img src="https://user-images.githubusercontent.com/97195240/209467565-3f91abc2-9be7-4db2-bb70-d7b1d0da15ec.png" width="300px" />
 </div>
 
+- [Acesso rápido ao codigo](https://github.com/faustinothiagos/Como-Criar-Uma-Series-Pandas/tree/main/Code)
+- [Acesso rápido a documentação Pandas](https://pandas.pydata.org/docs/reference/series.html)
