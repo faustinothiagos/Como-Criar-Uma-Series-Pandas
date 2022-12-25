@@ -28,7 +28,7 @@ Em nossa exemplo considere que ambas armazenam dados provenientes de um sistema 
 <img src="https://user-images.githubusercontent.com/97195240/209467565-3f91abc2-9be7-4db2-bb70-d7b1d0da15ec.png" width="250px" />
 </div>
 
-Podemos observar aqui na saída as propriedades elementares da Series
+Podemos observar aqui na saída as propriedades elementares da Series os tipos de 'dtype'
 - 'No Pandas temos float64 enquanto no python float.'
 - 'No Pandas temos object no Python string.'
 
